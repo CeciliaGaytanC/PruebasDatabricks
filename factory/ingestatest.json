@@ -1,0 +1,9 @@
+{
+	"name": "ingestatest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "96f65b7a-e355-4e54-9446-abae65c08c6b",
+		"tenantId": "f4142a57-69f5-48d6-9c0e-1c0ccbeee91f"
+	}
+}
